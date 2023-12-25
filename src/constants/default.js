@@ -1,4 +1,4 @@
-const SERVICE_URL = "http://127.0.0.1:8080/api";
+const SERVICE_URL = "https://basketball-booking.onrender.com/api";
 const EMPTY = "";
 const REQUEST_EMAIL = "Enter your email";
 const REQUEST_PASSWORD = "Enter your password";
